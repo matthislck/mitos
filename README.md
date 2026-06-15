@@ -10,7 +10,7 @@ I built this while learning AI and agents, because I kept hitting the same wall:
 
 ## How to use it
 
-Mitos is an **idea file**, not an app – there is nothing to install. You copy [`mitos.md`](./mitos.md) into your own LLM agent (Claude Code, Codex, etc.), and it sets the pattern up with you in a short conversation; the output is a small schema your agent then runs from. Obsidian is the viewer.
+Mitos is an **idea file**, not an app – there is nothing to install. You copy [`mitos.md`](./mitos.md) into your own LLM agent (Claude Code, Codex, etc.), and it sets the pattern up with you in a short conversation; the output is a small schema your agent then runs from. Obsidian is the viewer (that is at least how I had intended it).
 
 The loop, once it is set up:
 
